@@ -1,0 +1,8 @@
+
+11/20/2011
+- Show search result on map
+  for users without geolocation, show them in a list from a pin on the map (using the area location)
+  users with geolocation show on the map as individual pin (blue?)
+  
+
+Project created on 11/4/2011

@@ -1,0 +1,90 @@
+<specialities>
+<class id='0' name='音乐' icon='music.png'>
+<speciality id="1" name="声乐"/>
+<speciality id="2" name="钢琴"/>
+<speciality id="3" name="电子琴"/>
+<speciality id="4" name="小提琴"/>
+<speciality id="5" name="大提琴"/>
+<speciality id="6" name="长笛"/>
+<speciality id="7" name="吉他"/>
+<speciality id="8" name="手风琴"/>
+<speciality id="9" name="电声乐"/>
+<speciality id="10" name="萨克斯"/>
+<speciality id="11" name="单簧管"/>
+<speciality id="12" name="铜管乐"/>
+<speciality id="13" name="爵士鼓"/>
+<speciality id="14" name="黑管"/>
+<speciality id="15" name="竖琴"/>
+<speciality id="16" name="贝斯"/>
+<speciality id="17" name="风笛"/>
+<speciality id="18" name="笛(竹笛))"/>
+<speciality id="19" name="箫"/>
+<speciality id="20" name="古筝"/>
+<speciality id="21" name="扬琴"/>
+<speciality id="22" name="二胡(胡琴)"/>
+<speciality id="23" name="巴乌"/>
+<speciality id="24" name="笙"/>
+<speciality id="25" name="葫芦丝"/>
+<speciality id="26" name="琵琶"/>
+<speciality id="27" name="唢呐"/>
+<speciality id="28" name="扬琴"/>
+<speciality id="29" name="民族打击乐"/>
+</class>
+<class id='1000' name="美术" icon='art.png'>
+<speciality id="1001" name="国画"/>
+<speciality id="1002" name="素描"/>
+<speciality id="1003" name="水彩"/>
+</class>
+<class id='2000' name="舞蹈" icon='dance.png'>
+<speciality id="2001" name="拉丁舞"/>
+<speciality id="2002" name="国标"/>
+<speciality id="2003" name="探戈"/>
+</class>
+<class id='3000' name="语言" icon='language.png'>
+<speciality id="3001" name="英语"/>
+<speciality id="3002" name="法语"/>
+<speciality id="3003" name="日语"/>
+<speciality id="3004" name="德语"/>
+</class>
+<class id='4000' name="大学/考研/出国" icon='university.png'>
+<speciality id="4001" name="托福TOEFL"/>
+<speciality id="4002" name="雅思IELTS"/>
+<speciality id="4003" name="GMAT"/>
+<speciality id="4004" name="LSAT"/>
+<speciality id="4005" name="LSAT"/>
+<speciality id="4006" name="LSAT"/>
+<speciality id="4007" name="LSAT"/>
+</class>
+<class id='5000' name="高中教育" icon='highschool.png'>
+<speciality id="5001" name="高中语文"/>
+<speciality id="5002" name="高中数学"/>
+<speciality id="5003" name="高中英语"/>
+<speciality id="5004" name="高中物理"/>
+</class>
+<class id='6000' name="初中教育" icon='middleschool.png'>
+<speciality id="6001" name="初中语文"/>
+<speciality id="6002" name="初中数学"/>
+<speciality id="6003" name="初中英语"/>
+<speciality id="6004" name="初中物理"/>
+</class>
+<class id='7000' name="小学教育" icon='elementschool.png'>
+<speciality id="7001" name="小学语文"/>
+<speciality id="7002" name="小学数学"/>
+<speciality id="7003" name="小学英语"/>
+</class>
+<class id='8000' name="计算机" icon='computer.png'>
+<speciality id="8001" name="基本程序设计"/>
+<speciality id="8002" name="网站开发"/>
+<speciality id="8003" name="Windows软件开发"/>
+<speciality id="8004" name="IPhone开发"/>
+<speciality id="8005" name="Android开发"/>
+<speciality id="8006" name="3D游戏开发"/>
+<speciality id="8007" name="C/C++"/>
+<speciality id="8008" name="Java"/>
+<speciality id="8009" name="C#"/>
+<speciality id="8010" name="Javascript/HTML5"/>
+<speciality id="8011" name="Python"/>
+<speciality id="8012" name="Oracle"/>
+</class>
+
+</specialities>

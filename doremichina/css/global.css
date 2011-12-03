@@ -1,0 +1,104 @@
+
+body {
+    background: #74b5e5 url(/images/blu-bg20px.jpg) repeat-x;
+    font-family:"Microsoft YaHei",Arial, Verdana, Helvetica, Geneva, Sans-Serif;
+    font-size:14px;
+    height:100%;
+    /*color:#1C3D51;*/
+    color:#333;
+    line-height:1.125em;
+    
+    /*  
+    padding: 0 0 230px;
+    position: relative;
+*/
+}
+
+table {
+    border-collapse: separate;
+    border-spacing: 0;
+}
+caption, th, td {
+    text-align: left;
+    font-weight: normal;
+}
+/* remember to define focus styles! */
+:focus {
+    outline: 0;
+}
+
+.rounded {
+    border-radius:5px;
+    border:1px solid #74b5e5;
+}
+
+.teacherdetails {
+width:640px;
+        
+}
+
+.teachersummary {
+border-top:1px solid #0080FF;
+font-size:13px;
+color: #069;
+}
+
+.discussion_title_selected {
+cursor:pointer;
+font-size:13px;
+color: red;
+}
+
+.discussion_title_unselected {
+cursor:pointer;
+font-size:13px;
+color: #069;
+}
+
+.discussion_content {
+font-size:13px;
+color: #069;
+}
+
+.discussion_dialog_class {
+background-color:white;
+color:#069;
+}
+
+.discussion_location_name {
+font-size:18px;
+font-weight: bold;
+}
+
+.city_selected {
+cursor:pointer;
+font-weight:bold;
+font-size:12px;
+text-decoration: none;
+color: red;
+outline: none;
+}
+
+.city_unselected {
+cursor:pointer;
+font-weight:bold;
+font-size:12px;
+text-decoration: none;
+color: #069;
+outline: none;
+}
+
+.menu_title {
+color: #4B911C;
+font-weight: bold;
+font-size:14px;
+}
+
+
+.userimage {
+    color: white;
+    background-color:#111111;
+    border-radius:5px;
+    border:1px solid #CCCCCC;'
+    padding:25px 25px 25px 25px;
+}

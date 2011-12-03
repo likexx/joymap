@@ -1,0 +1,1 @@
+<?phpecho 'For the uploads update it is necessary the database stored filenames.'   . ' So nothing is performed in this demo.';/* * For files that contain only PHP code, the closing tag ("?>") is to be omitted. * It is not required by PHP, and omitting it prevents trailing whitespace from * being accidentally injected into the output. * ?> */

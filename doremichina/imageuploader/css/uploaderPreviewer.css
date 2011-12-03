@@ -1,0 +1,68 @@
+
+body {
+    font-size: 14px;
+}
+
+.imageForms {
+    width: 450px;
+}
+
+.imageForms td.label {
+    width: 60px;
+    vertical-align: middle;
+}
+
+.imageForms td.removeImageButton {
+    text-align: center;
+    vertical-align: middle;
+    width: 70px;
+}
+
+.imageForms label {
+    font-weight: bold;
+    width: auto;
+}
+
+button.small {
+    font-size: 10px;
+    width: 50px;
+}
+
+div.loading {
+    background: transparent url("loadingSpinner.gif") center center no-repeat;
+    width: 130px;
+    height: 130px;
+}
+
+.previewImage img {
+}
+
+.imageLoaded img {
+    display: block;
+}
+
+label {
+    display: inline-block;
+    width: 131px;
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+div.buttonSave {
+    text-align: center;
+    margin: 20px 0;
+    width: 450px;
+}
+
+li {
+    margin-top: 5px;
+}
+
+.errorMessage {
+    font-weight: bold;
+    color: red;
+    border: 2px solid red;
+    -moz-border-radius: 10px;
+    padding: 0px 10px;
+    margin: 10px 0px;
+}
